@@ -1,0 +1,126 @@
+Test  Case – 01
+•	Navigate URL (https://www.swiggy.com/city/kolkata)
+•	Navigate The Location
+•	Checked The Proper Locate or Not.
+
+Test Result - Success
+
+Test  Case – 02
+•	Search Box Navigating
+•	Search Food(Biriyani)
+•	Checked The Proper Food Is Coming Or not According To Food Name.
+
+Test Result - Success
+
+Test  Case – 03
+•	Offer Page Navigate
+•	Checked The Offer Page is came or not.
+
+Test Result - Success
+
+Test  Case – 04
+•	Help Page Navigate
+•	Checked The help Page is came or not.
+
+Test Result - Success
+
+Test  Case – 05
+•	Cart Page Navigate
+•	Checked The Cart Page is came or not.
+
+Test Result - Success
+
+Test  Case – 06
+•	See restaurants Near by.
+•	Near Restauarant Came or not.
+
+Test Result - Success
+
+Test  Case – 07
+•	Restaurants
+•	Restaurants is showing or not.
+
+Test Result - Success
+
+Test  Case – 08
+•	Open The Add
+•	Add is Working or not.
+
+Test Result - Success
+
+Test  Case – 09
+•	"+" This Button Working Or Not
+
+Test Result - Success
+
+Test  Case – 10
+•	I'll choose button working or not
+
+Test Result - Success
+
+Test  Case – 11
+•	I'll choose button Add working or not
+
+Test Result - Success
+
+Test  Case – 12
+•	"-" This Button Working Or Not
+
+Test Result - Success
+
+Test Case - 13
+•	2nd Time "+"  Button Working Or Not
+
+Test Result - Success
+
+Test Case - 14
+•	Repeat Last Correctly Working or Not
+
+Test Result - Success
+
+Test Case - 15
+•	2nd Time "-"  Button Working Or Not
+
+Test Result - Success
+
+Test Case - 16
+•	Checkout Page is Navigate.
+
+Test Result - Success
+
+Test Case - 17
+•	Sign up page is open.
+•	Mobile no. locate properly. (123456789)
+•	Name Locate Correctly.(Brainium Information Technologies)
+•	Email & Password locate correctly. (brainium123@gmail.com) & (123456789brainium@).
+
+Test Result - Success
+
+Test Case - 18
+•	Sign in page is open.
+•	Mobile no. 
+•	Click Option.
+
+Test Result - Success
+
+Test Case - 19
+•	Address page open.
+•	Building No. box properly working.
+•	Landmark box properly working.
+•	Home is properly working.
+
+Test Result - Success
+
+Test Case - 20
+•	Payment Page Open.
+•	Check Pay on delivery.
+•	Check UPI.
+•	Check Pay Later
+•	Check Credit & Debit Card.
+•	Check Wallet.
+
+Test Result - Success
+
+
+
+
